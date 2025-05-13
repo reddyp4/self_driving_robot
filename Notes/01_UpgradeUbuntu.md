@@ -40,3 +40,8 @@ GRUB_CMDLINE_LINUX_DEFAULT="quiet splash nomodeset"
 > At the bash prompt, execute the following command to regenerate the grub.conf file on the /boot partition from your new default file:
 update-grub
 > Restart your system, it should now boot!
+
+Setup T530: In progress
+Moved to thinkpad, for easier steps (vs Ideapad)
+Thinkpad configuration: Intel i7 Pro (4-core), 8GB RAM, 128GB SSD
+
