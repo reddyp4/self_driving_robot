@@ -1,0 +1,42 @@
+[0.023s] Invoking command in '/home/madison/Documents/Firmware/bumperbot_ws/build/bumper_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/madison/Documents/Firmware/bumperbot_ws/src/bumper_cpp_examples -DCMAKE_INSTALL_PREFIX=/home/madison/Documents/Firmware/bumperbot_ws/install/bumper_cpp_examples
+[0.337s] -- The C compiler identification is GNU 13.3.0
+[0.514s] -- The CXX compiler identification is GNU 13.3.0
+[0.549s] -- Detecting C compiler ABI info
+[0.710s] -- Detecting C compiler ABI info - done
+[0.726s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.727s] -- Detecting C compile features
+[0.728s] -- Detecting C compile features - done
+[0.743s] -- Detecting CXX compiler ABI info
+[0.918s] -- Detecting CXX compiler ABI info - done
+[0.937s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.938s] -- Detecting CXX compile features
+[0.939s] -- Detecting CXX compile features - done
+[0.949s] -- Found ament_cmake: 2.7.2 (/opt/ros/rolling/share/ament_cmake/cmake)
+[1.167s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.386s] -- Found ament_lint_auto: 0.19.1 (/opt/ros/rolling/share/ament_lint_auto/cmake)
+[1.596s] -- Added test 'lint_cmake' to check CMake code style
+[1.598s] -- Added test 'xmllint' to check XML markup files
+[1.601s] -- Configuring done (1.5s)
+[1.606s] -- Generating done (0.0s)
+[1.612s] -- Build files have been written to: /home/madison/Documents/Firmware/bumperbot_ws/build/bumper_cpp_examples
+[1.623s] Invoked command in '/home/madison/Documents/Firmware/bumperbot_ws/build/bumper_cpp_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/madison/Documents/Firmware/bumperbot_ws/src/bumper_cpp_examples -DCMAKE_INSTALL_PREFIX=/home/madison/Documents/Firmware/bumperbot_ws/install/bumper_cpp_examples
+[1.623s] Invoking command in '/home/madison/Documents/Firmware/bumperbot_ws/build/bumper_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/madison/Documents/Firmware/bumperbot_ws/build/bumper_cpp_examples -- -j4 -l4
+[1.692s] Invoked command in '/home/madison/Documents/Firmware/bumperbot_ws/build/bumper_cpp_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/madison/Documents/Firmware/bumperbot_ws/build/bumper_cpp_examples -- -j4 -l4
+[1.711s] Invoking command in '/home/madison/Documents/Firmware/bumperbot_ws/build/bumper_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/madison/Documents/Firmware/bumperbot_ws/build/bumper_cpp_examples
+[1.721s] -- Install configuration: ""
+[1.723s] -- Installing: /home/madison/Documents/Firmware/bumperbot_ws/install/bumper_cpp_examples/share/ament_index/resource_index/package_run_dependencies/bumper_cpp_examples
+[1.723s] -- Installing: /home/madison/Documents/Firmware/bumperbot_ws/install/bumper_cpp_examples/share/ament_index/resource_index/parent_prefix_path/bumper_cpp_examples
+[1.723s] -- Installing: /home/madison/Documents/Firmware/bumperbot_ws/install/bumper_cpp_examples/share/bumper_cpp_examples/environment/ament_prefix_path.sh
+[1.723s] -- Installing: /home/madison/Documents/Firmware/bumperbot_ws/install/bumper_cpp_examples/share/bumper_cpp_examples/environment/ament_prefix_path.dsv
+[1.724s] -- Installing: /home/madison/Documents/Firmware/bumperbot_ws/install/bumper_cpp_examples/share/bumper_cpp_examples/environment/path.sh
+[1.724s] -- Installing: /home/madison/Documents/Firmware/bumperbot_ws/install/bumper_cpp_examples/share/bumper_cpp_examples/environment/path.dsv
+[1.724s] -- Installing: /home/madison/Documents/Firmware/bumperbot_ws/install/bumper_cpp_examples/share/bumper_cpp_examples/local_setup.bash
+[1.724s] -- Installing: /home/madison/Documents/Firmware/bumperbot_ws/install/bumper_cpp_examples/share/bumper_cpp_examples/local_setup.sh
+[1.725s] -- Installing: /home/madison/Documents/Firmware/bumperbot_ws/install/bumper_cpp_examples/share/bumper_cpp_examples/local_setup.zsh
+[1.725s] -- Installing: /home/madison/Documents/Firmware/bumperbot_ws/install/bumper_cpp_examples/share/bumper_cpp_examples/local_setup.dsv
+[1.726s] -- Installing: /home/madison/Documents/Firmware/bumperbot_ws/install/bumper_cpp_examples/share/bumper_cpp_examples/package.dsv
+[1.726s] -- Installing: /home/madison/Documents/Firmware/bumperbot_ws/install/bumper_cpp_examples/share/ament_index/resource_index/packages/bumper_cpp_examples
+[1.727s] -- Installing: /home/madison/Documents/Firmware/bumperbot_ws/install/bumper_cpp_examples/share/bumper_cpp_examples/cmake/bumper_cpp_examplesConfig.cmake
+[1.727s] -- Installing: /home/madison/Documents/Firmware/bumperbot_ws/install/bumper_cpp_examples/share/bumper_cpp_examples/cmake/bumper_cpp_examplesConfig-version.cmake
+[1.727s] -- Installing: /home/madison/Documents/Firmware/bumperbot_ws/install/bumper_cpp_examples/share/bumper_cpp_examples/package.xml
+[1.731s] Invoked command in '/home/madison/Documents/Firmware/bumperbot_ws/build/bumper_cpp_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/madison/Documents/Firmware/bumperbot_ws/build/bumper_cpp_examples

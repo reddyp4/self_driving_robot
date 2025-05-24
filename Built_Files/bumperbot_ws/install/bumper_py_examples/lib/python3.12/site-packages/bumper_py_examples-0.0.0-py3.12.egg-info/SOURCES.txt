@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+../../build/bumper_py_examples/bumper_py_examples.egg-info/PKG-INFO
+../../build/bumper_py_examples/bumper_py_examples.egg-info/SOURCES.txt
+../../build/bumper_py_examples/bumper_py_examples.egg-info/dependency_links.txt
+../../build/bumper_py_examples/bumper_py_examples.egg-info/requires.txt
+../../build/bumper_py_examples/bumper_py_examples.egg-info/top_level.txt
+../../build/bumper_py_examples/bumper_py_examples.egg-info/zip-safe
+bumper_py_examples/__init__.py
+resource/bumper_py_examples
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
+test/test_xmllint.py
